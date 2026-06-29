@@ -1,3 +1,5 @@
-pandas>=2.0.0
-python-dotenv>=1.0.0
+# Runtime dependencies
+# The demo uses only Python standard library (no external runtime deps).
+
+# Development / Testing
 pytest>=7.0.0
